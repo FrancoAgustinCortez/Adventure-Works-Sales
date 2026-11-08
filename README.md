@@ -7,7 +7,7 @@ Diseñar e implementar un proyecto analítico completo de extremo a extremo, aba
 
 ## 🖼 Visualización del Dashboard
 El proyecto está dividido en tres paneles principales para un análisis detallado:
-* **Página 1 (Bikes / Ventas Generales):** Enfocada en el rendimiento de productos, colores y tendencias de ventas de bicicletas.
+* **Página 1 (Bikes / Ventas Generales):** Enfocada en el rendimiento de productos, colores y tendencias de ventas.
 * **Página 2 (Demografía / Clientes):** Enfocada en el perfil de los clientes, estado civil, ingresos anuales y géneros.
 * **Página 3 (Geografía / Regiones):** Enfocada en la distribución geográfica de las ventas, territorios e histórico de devoluciones.
 
