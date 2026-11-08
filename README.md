@@ -1,7 +1,7 @@
 # 📊 Análisis de Ventas de Adventure Works (Adventure Works Sales Analytics)
 
 ## 🎯 Objetivo del Proyecto
-Diseñar e implementar un proyecto analítico completo de extremo a extremo, abarcando la ingeniería de datos en PostgreSQL para la limpieza, cruce (*JOINs*) y transformación de registros transaccionales, y la construcción de un panel visual ejecutivo (dashboard) en Power BI Desktop con un diseño moderno adaptado para un portafolio profesional.
+Diseñar e implementar un proyecto analítico completo de extremo a extremo, abarcando la ingeniería de datos en SQLite para la limpieza, cruce (*JOINs*) y transformación de registros transaccionales, y la construcción de un panel visual ejecutivo (dashboard) en Power BI Desktop con un diseño moderno adaptado para un portafolio profesional.
 
 ---
 
@@ -19,7 +19,7 @@ El proyecto está dividido en tres paneles principales para un análisis detalla
 
 ## 🛠 Herramientas Utilizadas
 
-PostgreSQL & DBeaver: Gestión de base de datos relacional, ejecución de consultas SQL complejas (*JOINs*, agregaciones), creación de vistas (*views*) para integrar las tablas transaccionales de ventas, clientes, productos y territorios, y filtrado de datos para garantizar la integridad analítica.
+SQLite & DBeaver: Gestión de base de datos relacional, ejecución de consultas SQL complejas (*JOINs*, agregaciones), creación de vistas (*views*) para integrar las tablas transaccionales de ventas, clientes, productos y territorios, y filtrado de datos para garantizar la integridad analítica.
 
 Power BI Desktop: Modelado de datos en Star Schema, creación de medidas DAX avanzadas (Total Revenue, Total Profit, Total AVG, Total Cost, Total Transactions y control de contexto de filtro con la función ALL) y diseño de interfaz gráfica (UI/UX) optimizada.
 
